@@ -1,1 +1,1 @@
-# EJB-Singleton
+# Bean de Sessão Singleton
